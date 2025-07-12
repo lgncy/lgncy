@@ -54,6 +54,9 @@
   <a href="mailto:wildandwitriatnakusuma3915@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://fastwork.id/user/triatna?source=web_marketplace_profile-menu_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Fastwork-1D9BF0?style=for-the-badge&logo=freelancer&logoColor=white" alt="Fastwork" />
+  </a>
 </p>
 
 ---
