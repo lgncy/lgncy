@@ -3,10 +3,10 @@
 ---
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/cLiOAvpdFZqAo/giphy.gif" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5nbnpxYWlra3NkNGVxazV1ZXN4dnVvbXQ2MGZvcjQ1bDJ4MHVwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="500"/>
 </div>
 
----
+
 
 ### 🛠️ I usually use
 
