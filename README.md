@@ -1,6 +1,11 @@
 <h1 align="center">Hallo 👋, I'm Wildan</h1>
 <p align="center">A passionate Fullstack & AI Developer from Indonesia 🇮🇩</p>
 
+<p align="center">
+  💼 Founder of <a href="https://blentara.com" target="_blank"><strong>Blentara.com</strong></a> & <a href="https://devnusantara.com" target="_blank"><strong>DevNusantara.com</strong></a>
+</p>
+
+
 ---
 
 <div align="center">
