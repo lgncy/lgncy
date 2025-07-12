@@ -2,8 +2,10 @@
 <p align="center">A passionate Fullstack & AI Developer from Indonesia 🇮🇩</p>
 
 <p align="center">
-  💼 Founder of <a href="https://blentara.com" target="_blank"><strong>Blentara.com</strong></a> & <a href="https://devnusantara.com" target="_blank"><strong>DevNusantara.com</strong></a>
+  🧑‍💻 Founder of <a href="https://devnusantara.com" target="_blank"><strong>DevNusantara.com</strong></a> – Web & App Development Services<br>
+  🧠 Founder & Platform Creator of <a href="https://blentara.com" target="_blank"><strong>Blentara.com</strong></a> – A Creative Hub for Blender Artists in Indonesia
 </p>
+
 
 
 ---
