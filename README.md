@@ -4,7 +4,7 @@
 <p align="center">
   🧑‍💻 Founder of <a href="https://devnusantara.com" target="_blank"><strong>DevNusantara.com</strong></a> – Web & App Development Services<br>
   🧠 Founder & Platform Community of <a href="https://blentara.com" target="_blank"><strong>Blentara.com</strong></a> – A Creative Hub for Blender Artists in Indonesia<br>
-  🧠 Founder & Platform Creator of <a href="https://NusaArt.com" target="_blank"><strong>NusaArt.com</strong></a> – A Creative Marketplace for Artist
+  🧠 Founder & Platform Creator of <a href="https://NusaArt.com" target="_blank"><strong>NusaArt.com</strong></a> – A Creative Marketplace for Artist<br>
   🧠 CoFounder & Platform Creator of <a href="https://Devantara.com" target="_blank"><strong>Devantara.com</strong></a> – A Creative Service
 </p>
 
