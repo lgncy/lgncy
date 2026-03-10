@@ -7,7 +7,7 @@
   🧠 Founder & Platform Creator of <a href="https://NusaArt.com" target="_blank"><strong>NusaArt.com</strong></a> – A Creative Marketplace for Artist<br>
   🧠 CoFounder & Platform Creator of <a href="https://Devantara.com" target="_blank"><strong>Devantara.com</strong></a> – A Creative Service
 </p>
-
+//
 
 
 ---
